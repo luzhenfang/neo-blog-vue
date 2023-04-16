@@ -18,3 +18,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 # neo-blog-vue
 # neo-blog-vue
+# neo-blog-vue
